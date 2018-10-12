@@ -129,9 +129,17 @@ h2~p {
 
 /* HERO STYLES */
 
+/* HERO STYLES */
+
 .full-hero {
   background-color: #c7dbfc;
-  height: 50vh;
+  background-size: cover;
+  box-sizing: border-box;
+  height: 100vh;
+  padding-top: 10vh;
+}
+.hero-home {
+  background-image: url(/images/shark.jpg);
 }
 
 /* SOCIAL STYLES */
@@ -141,6 +149,10 @@ h2~p {
   padding: 0;
   text-align: center;
 }
+
+.footer .social-list {
+  padding: 15px 0 0;
+} 
 
 .social-link {
   background: rgba(150, 150, 150, 0.5);

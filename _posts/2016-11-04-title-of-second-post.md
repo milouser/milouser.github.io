@@ -10,6 +10,6 @@ postFooter: Additional information, and maybe a <a href="#">link or two</a>
 
 Call me *Nick*. Glad to meet you.
 
-<img class="pull-left" src="http://placekitten.com/g/400/200"
+<img class="posts-image" src="http://placekitten.com/g/400"
      alt="kitten">
 

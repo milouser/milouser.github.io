@@ -727,13 +727,15 @@ p {
   .header-nav .drop-trigger {
     padding-right: 0;
   }
+  
   .mobile-menu-check:checked~.header-nav {
     max-height: 1000px;
   }
+  
   .mobile-menu-check:checked~.show-mobile-menu:after {
     background-color: #000;
     color: #ed6e2f;
-    content: "CLOSE";
+    content: "X";
     left: 0;
     position: absolute;
     top: 1.5em;
